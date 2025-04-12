@@ -6,7 +6,7 @@ const posts = [
     avatar: "images/icon1.png",
     post: "images/posts/ahmet.jpg",
     comment: "Günaydın! ☀️",
-    likes: 120
+    likes: 1545
   },
   {
     name: "Gustave Courbet",
@@ -15,7 +15,7 @@ const posts = [
     avatar: "images/icon2.png",
     post: "images/posts/samet.png",
     comment: "Yeni projelere başlayalım!",
-    likes: 90
+    likes: 2219
   },
   {
     name: "Joseph Ducreux",
@@ -24,6 +24,6 @@ const posts = [
     avatar: "images/icon3.png",
     post: "images/posts/huseyin.png",
     comment: "Yaz sıcakları geldi...",
-    likes: 75
+    likes: 1893
   }
 ]
