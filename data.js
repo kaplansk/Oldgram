@@ -26,4 +26,7 @@ const posts = [
     comment: "Yaz sıcakları geldi...",
     likes: 1893
   }
+
+ 
+  
 ]
