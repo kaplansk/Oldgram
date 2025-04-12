@@ -1,6 +1,6 @@
 # Oldagram
 
-![Screenshot](ss.png)
+![Screenshot](images/ss.png)
 
 Oldagram is a simple Instagram clone.
 
