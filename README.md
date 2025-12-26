@@ -1,4 +1,4 @@
-# Oldagram
+# Oldagram v2
 
 ![Screenshot](images/ss.png)
 
